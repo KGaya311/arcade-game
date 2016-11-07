@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    color: #AD1457;
+    background-color: pink;
+    font-size: 30px;
+    font-family: 'Lora', serif;
+    width: 100%;
+    text-align: center;
+}
