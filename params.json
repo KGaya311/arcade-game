@@ -1,0 +1,6 @@
+{
+  "name": "Arcade-game",
+  "tagline": "arcade game with a player and 3 bugs ",
+  "body": "Frontend Nanodegree Arcade Game\r\n===============================\r\n\r\n# Classic Arcade Game\r\n\r\n## To start\r\n\r\n\t* Open the HTML document from the zip file in any browser\r\n\r\n## How to play\r\n\r\n\r\n\t1. Move the player using the arrow keys on the keyboard.\r\n\t2. Make her cross the road and reach the water without colliding with any of the bugs passing by.\r\n\t3. Colliding with bugs makes the player go back to initial position.\r\n\t",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
